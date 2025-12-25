@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.e1167060.js",
+    "static/media/3tier.png": "/static/media/3tier.c0547e1d37600efee656.png",
+    "static/media/layout1.png": "/static/media/layout1.f81bdc8ca6289f2d478d.png",
+    "static/media/f(1).png": "/static/media/f(1).6dc7ee262118cab836f0.png",
+    "static/media/flow_zomato.png": "/static/media/flow_zomato.1d011472fcd5f6c2ac45.png",
+    "static/media/b(1).png": "/static/media/b(1).75a354383f24e2ecd0c3.png",
+    "static/media/eks_cicd_architecture.png": "/static/media/eks_cicd_architecture.ae1f2565b79c5fbe26a8.png",
+    "static/media/CAdashboard.png": "/static/media/CAdashboard.3ac2c813c501e5e2d5f6.png",
+    "static/media/s2.png": "/static/media/s2.0d0e86ac7f50edd7a1c9.png",
+    "static/media/architecture.png": "/static/media/architecture.d26b2a7a31f4eeae5a9c.png",
+    "static/media/Overview.png": "/static/media/Overview.5354c244877be947a36f.png",
+    "static/media/customer.png": "/static/media/customer.f7de704d765744414d61.png",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.f8b8201d6c6df7a3ec0b.jpg",
+    "static/media/todo1.png": "/static/media/todo1.caf0b15c947330122f6d.png",
+    "static/media/s1.png": "/static/media/s1.038ac20435501b9f2e5c.png",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.e1167060.js.map": "/static/js/main.e1167060.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.e1167060.js"
+  ]
+}
